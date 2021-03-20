@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-420&show_icons=true&theme=radical)](https://github.com/amit-420/github-readme-stats)
+
 <!--
 **amit-420/amit-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
