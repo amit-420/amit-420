@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-I am pre-final year Mining Engineering student from VNIT, Nagpur.
+I am a pre-final year Mining Engineering student from VNIT, Nagpur.
 
-I like Robotics
+I like Robotics.
 
-Currently i am working on reconfigurable robots.
+I am looking forward to creating something unique with an amalgamation of Robotics and a mining background.
+
+Currently, I am working on reconfigurable robots.
 
 
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-420&show_icons=true&theme=radical)](https://github.com/amit-420/github-readme-stats)
+
 
 <!--
 **amit-420/amit-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
