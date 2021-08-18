@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a pre-final year Mining Engineering student from VNIT, Nagpur.
+I am a pre-final year undergraduate student from VNIT, Nagpur.
 
 I like Robotics.
 
