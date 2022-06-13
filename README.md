@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am a pre-final year undergraduate student from VNIT, Nagpur.
+I am a final year undergraduate student from VNIT, Nagpur.
 
-I like Robotics.
+I wanna be a Robotics Engineer
 
 I am looking forward to creating something unique with an amalgamation of Robotics and a mining background.
 
-Currently, I am working on reconfigurable robots.
+My interests are Robotic Manipulation and Legged Systems
 
 
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-420&show_icons=true&theme=radical)](https://github.com/amit-420/github-readme-stats)
