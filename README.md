@@ -3,9 +3,9 @@
 I am a final year undergraduate student from VNIT, Nagpur.
 
 I wanna be a Robotics Engineer
-
+<!--
 I am looking forward to creating something unique with an amalgamation of Robotics and a mining background.
-
+-->
 My interests are Robotic Manipulation and Legged Systems
 
 
