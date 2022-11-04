@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a final year undergraduate student from VNIT, Nagpur.
+I am a final year undergraduate student from VNIT, Nagpur, with bachelors degree in Mining Engineering.
 
-I wanna be a Robotics Engineer
+Aspiring Robotics Engineer
 <!--
 I am looking forward to creating something unique with an amalgamation of Robotics and a mining background.
 -->
