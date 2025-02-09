@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a final year undergraduate student in Mining engineering from VNIT, nagpur.
+I am a 1st year Masters student of Cybernetics and Robotics at CVUT, Prague
 
 Aspiring Robotics Engineer
 <!--
