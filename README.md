@@ -7,7 +7,7 @@ Aspiring Robotics Engineer
 <!--
 I am looking forward to creating something unique with an amalgamation of Robotics and a mining background.
 -->
-My interests are Robotic Manipulation and Legged Systems
+My research interests lie in control theory and its diverse applications. I am particularly drawn to the algorithmic challenges inherent in optimal control, and I am keen to develop efficient and robust implementations of these algorithms.
 
 <!--
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-420&show_icons=true&theme=radical)](https://github.com/amit-420/github-readme-stats)
