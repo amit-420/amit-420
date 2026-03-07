@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a 1st year Masters student of Cybernetics and Robotics at CVUT, Prague
+I am a final year Masters student of Cybernetics and Robotics at CVUT, Prague
 
 Aspiring Robotics Engineer
 <!--
